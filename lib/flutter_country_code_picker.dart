@@ -3,6 +3,10 @@ import 'package:flutter_country_code_picker/src/countries.dart';
 import 'package:flutter_country_code_picker/src/country.dart';
 import 'package:flutter_country_code_picker/src/dialog.dart';
 
+export 'src/country.dart' show Country;
+export 'src/dialog.dart' show CountryPickerDialog;
+export 'src/countries.dart' show countries;
+
 class CountryCodePicker extends StatefulWidget {
   /// Called when new country is selected
   final ValueChanged<Country> onChanged;
