@@ -1,3 +1,11 @@
+## 2.0.0 - unreleased
+
+- Compressed flags to reduce package size
+- Use `ListView.builder` for better performance
+- Clean up code
+
+# Original library changelog
+
 ## 1.2.4
 
 Fixed a bug that was making impossible to update initial selection

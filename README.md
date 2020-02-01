@@ -1,8 +1,8 @@
-[![Pub](https://img.shields.io/pub/v/country_code_picker.svg)](https://pub.dartlang.org/packages/country_code_picker)
+[![Pub](https://img.shields.io/pub/v/flutter_country_code_picker.svg)](https://pub.dartlang.org/packages/flutter_country_code_picker)
 
-# country_code_picker
+# flutter_country_code_picker
 
-A flutter package for showing a country code selector.
+A Flutter package for showing a country code selector.
 
 <img src="https://raw.githubusercontent.com/Salvatore-Giordano/CountryCodePicker/master/screenshots/screen1.png" width="240"/>
 <img src="https://raw.githubusercontent.com/Salvatore-Giordano/CountryCodePicker/master/screenshots/screen2.png" width="240"/>
